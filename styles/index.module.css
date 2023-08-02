@@ -1,0 +1,10 @@
+.navbar {
+    background: mediumpurple;
+    padding: 15px;
+}
+
+.link {
+    text-decoration: none;
+    font-size: 20px;
+    margin: 10px;
+}
